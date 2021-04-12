@@ -9,5 +9,5 @@ How to Binnen-I be gone chrome extension to safari
 6) xcrun safari-web-extension-converter 2.7_0 (or whatever the folder is called then )
 7) XCODE opens. Press RUN
 8) Either: "Allow Unsigned Extensions" in Safari Developer Menu or build the package with signature as a developer.
-9) Active Extension in Safari
+9) Activate extension in Safari
 10) Enjoy your german texts in proper german.
